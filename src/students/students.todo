@@ -1,0 +1,7 @@
+# regras de negócios para estudantes
+
+Regras:
+    - Devemos conseguir somar as notas dos alunos
+    - Se caso uma nota for zero, a soma deve retornar zero
+    - Caso o aluno tenha mais de cinco notas a soma deve ser multiplicada por dois
+    - Caso a nota seja maior que 9 ela deve ser dobrada
